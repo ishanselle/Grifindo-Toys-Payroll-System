@@ -1,0 +1,15 @@
+E:\ESOFT Metro Campus\Pearson BTEC Level 5 HND in Computing\Class notes\01 Programming\ASSESSMENTS\system\Grifindo Toys Payroll System\System\bin\Debug\System.exe.config
+E:\ESOFT Metro Campus\Pearson BTEC Level 5 HND in Computing\Class notes\01 Programming\ASSESSMENTS\system\Grifindo Toys Payroll System\System\bin\Debug\System.exe
+E:\ESOFT Metro Campus\Pearson BTEC Level 5 HND in Computing\Class notes\01 Programming\ASSESSMENTS\system\Grifindo Toys Payroll System\System\bin\Debug\System.pdb
+E:\ESOFT Metro Campus\Pearson BTEC Level 5 HND in Computing\Class notes\01 Programming\ASSESSMENTS\system\Grifindo Toys Payroll System\System\obj\Debug\System.Grieindo_Toys_Login.resources
+E:\ESOFT Metro Campus\Pearson BTEC Level 5 HND in Computing\Class notes\01 Programming\ASSESSMENTS\system\Grifindo Toys Payroll System\System\obj\Debug\System.Properties.Resources.resources
+E:\ESOFT Metro Campus\Pearson BTEC Level 5 HND in Computing\Class notes\01 Programming\ASSESSMENTS\system\Grifindo Toys Payroll System\System\obj\Debug\System.csproj.GenerateResource.Cache
+E:\ESOFT Metro Campus\Pearson BTEC Level 5 HND in Computing\Class notes\01 Programming\ASSESSMENTS\system\Grifindo Toys Payroll System\System\obj\Debug\System.exe
+E:\ESOFT Metro Campus\Pearson BTEC Level 5 HND in Computing\Class notes\01 Programming\ASSESSMENTS\system\Grifindo Toys Payroll System\System\obj\Debug\System.pdb
+E:\ESOFT Metro Campus\Pearson BTEC Level 5 HND in Computing\Class notes\01 Programming\ASSESSMENTS\system\Grifindo Toys Payroll System\System\obj\Debug\System.Main_Form.resources
+E:\ESOFT Metro Campus\Pearson BTEC Level 5 HND in Computing\Class notes\01 Programming\ASSESSMENTS\system\Grifindo Toys Payroll System\System\obj\Debug\System.Employee_register.resources
+E:\ESOFT Metro Campus\Pearson BTEC Level 5 HND in Computing\Class notes\01 Programming\ASSESSMENTS\system\Grifindo Toys Payroll System\System\obj\Debug\System.Employee_Salary.resources
+E:\ESOFT Metro Campus\Pearson BTEC Level 5 HND in Computing\Class notes\01 Programming\ASSESSMENTS\system\Grifindo Toys Payroll System\System\obj\Debug\System.Setting.resources
+E:\ESOFT Metro Campus\Pearson BTEC Level 5 HND in Computing\Class notes\01 Programming\ASSESSMENTS\system\Grifindo Toys Payroll System\System\obj\Debug\System.Salary_Report.resources
+E:\ESOFT Metro Campus\Pearson BTEC Level 5 HND in Computing\Class notes\01 Programming\ASSESSMENTS\system\Grifindo Toys Payroll System\System\obj\Debug\System.csproj.AssemblyReference.cache
+E:\ESOFT Metro Campus\Pearson BTEC Level 5 HND in Computing\Class notes\01 Programming\ASSESSMENTS\system\Grifindo Toys Payroll System\System\obj\Debug\System.csproj.CoreCompileInputs.cache
